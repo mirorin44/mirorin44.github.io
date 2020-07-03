@@ -9,6 +9,7 @@ words_per_minute: 200
 # When testing locally leave blank or use http://localhost:4000
 url: "https://mirorin44.github.io"
 baseurl: ""
+repository:               
 
 # Owner/author information
 owner:
